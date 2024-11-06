@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" alt="stata" width="100" height="100"/>
   </a>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Other Tools and Language ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,latex,python,matlab,anaconda,pycharm" />
@@ -46,6 +46,10 @@
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+<a href="https://github.com/minhtu4187/Derivatives">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtu4187&repo=Derivatives&theme=merko" />
+</a>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
