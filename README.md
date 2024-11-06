@@ -1,3 +1,5 @@
+![wp7337510-anime-mac-air-wallpapers](https://github.com/user-attachments/assets/a803d374-a5de-461f-b56c-aad1ba91a818)
+
 <h1 align="center">Hi 👋, I'm Minh Tú</h1>
 <h3 align="center">A Master student in Economics and Finance in Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
