@@ -1,4 +1,5 @@
-![wp7337510-anime-mac-air-wallpapers](https://github.com/user-attachments/assets/a803d374-a5de-461f-b56c-aad1ba91a818)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Minh Tú</h1>
 <h3 align="center">A Master student in Economics and Finance in Vietnam</h3>
