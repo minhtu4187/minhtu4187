@@ -25,21 +25,24 @@
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100027449709013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100027449709013" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/p_minhtu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/p_minhtu/" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+<h3 align="left">Running and cleaning my models using:</h3>
+<p align="center">
+  
   <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stata/stata-original-wordmark.svg" alt="stata" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stata/stata-original-wordmark.svg" alt="stata" width="100" height="100"/>
   </a> 
+  &nbsp;&nbsp;&nbsp;
    <a href="https://www.spyder-ide.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" alt="stata" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" alt="stata" width="100" height="100"/>
   </a>
-   <a href="https://www.overleaf.com/project" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,latex,python,matlab,anaconda,pycharm" />
+<br>
+</div>
+
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
