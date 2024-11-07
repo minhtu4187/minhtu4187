@@ -49,6 +49,15 @@
 <a href="https://github.com/minhtu4187/Derivatives">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtu4187&repo=Derivatives&theme=merko" />
+<a href="https://github.com/minhtu4187/Motherhood-Penalty-in-Vietnam">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtu4187&repo=Motherhood-Penalty-in-Vietnam&theme=gruvbox" />
+<a href="https://github.com/minhtu4187/Genetics-Inheritance-in-Malawi">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtu4187&repo=Genetics-Inheritance-in-Malawi&theme=onedark" />
+<a href="https://github.com/minhtu4187/Macroeconometric-Forecasting">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtu4187&repo=Macroeconometric-Forecasting&theme=cobalt" />    
 </a>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
