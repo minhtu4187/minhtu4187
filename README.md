@@ -43,6 +43,10 @@
 <br>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=motivational" alt="Motivational Quote">
+</div>
+ 
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
