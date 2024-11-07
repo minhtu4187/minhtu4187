@@ -59,11 +59,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtu4187&repo=Macroeconometric-Forecasting&theme=cobalt" />    
 </a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhtu4187&show_icons=true&locale=en&layout=compact" alt="minhtu4187" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhtu4187&show_icons=true&locale=en" alt="minhtu4187" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhtu4187&" alt="minhtu4187" /></p>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
