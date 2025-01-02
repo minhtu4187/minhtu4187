@@ -39,7 +39,7 @@
 <h2 align="center">⚒️ Other Tools and Language ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,latex,python,matlab,anaconda,pycharm" />
+    <img src="https://skillicons.dev/icons?i=github,latex,python,matlab,anaconda,vscode" />
 <br>
 </div>
 
