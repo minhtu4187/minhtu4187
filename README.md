@@ -62,6 +62,9 @@
 <a href="https://github.com/minhtu4187/Macroeconometric-Forecasting">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtu4187&repo=Macroeconometric-Forecasting&theme=cobalt" />    
+<a href="https://github.com/minhtu4187/Financial-Econometrics">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtu4187&repo=Financial-Econometrics&theme=tokyonight" />
 </a>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
