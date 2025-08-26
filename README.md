@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Stata, Spyder using for econometrics analytics**
 
-- 📫 How to reach me ** Pham@econ.uni-frankfurt.de**
+- 📫 How to reach me ** Pham@econ.uni-frankfurt.de **
 
 - ⚡ Fun fact **I'm stuying my 2nd Master in International Economics and Public Policy in Mainz**
 
