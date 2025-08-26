@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A Master student in Economics and Finance in Vietnam</h3>
-<h3 align="center">Currentlz working at the Chair of Banking and Finance at Goethe University </h3>
+<h3 align="center">Currently working at the Chair of Banking and Finance at Goethe University </h3>
 
 <br/>
 
