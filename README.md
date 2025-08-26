@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">A Master student in Economics and Finance in Vietnam</h3>
+<h3 align="center">Currentlz working at the Chair of Banking and Finance at Goethe University </h3>
 
 <br/>
 
@@ -12,13 +13,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhtu4187&label=Profile%20views&color=0e75b6&style=flat" alt="minhtu4187" /> </p>
 
-- 🌱 I’m currently learning **German, Python, Latex**
+- 🌱 I’m currently learning **German, Python, AI-related**
 
 - 💬 Ask me about **Stata, Spyder using for econometrics analytics**
 
 - 📫 How to reach me **minhtu4187@gmail.com**
 
-- ⚡ Fun fact **I've lived in Germany for 6 months**
+- ⚡ Fun fact **I've stuying my 2nd Master in International Economics and Public Policy in Mainz**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/minhtu4187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/minhtu4187/" height="30" width="40" /></a>
